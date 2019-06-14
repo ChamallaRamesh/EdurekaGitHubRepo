@@ -1,3 +1,0 @@
-This is my third file using Git Bash. Thank you!
-
-This line is added to check the modified file check using Git. 
